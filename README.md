@@ -34,7 +34,7 @@ To reset, you can call UnityOC.ResetFrequencies in the same way.
 
 # Limitations
 Right now this is all done from usermode, so you cannot:
-Overclock > 444/222/222/166
+Overclock > 444/222/222/166  
 Underclock < 333/111/111/111
 
 # Manual Install
