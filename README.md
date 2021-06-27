@@ -3,7 +3,7 @@ Overclock your vita right from Unity!
 
 # Requirements
 Taihen (should already be installed).  
-(VitaFTPI-Core)[https://github.com/Ibrahim778/VitaFTPI-Core]
+[VitaFTPI-Core](https://github.com/Ibrahim778/VitaFTPI-Core)
 
 If you don't want to install VitaFTPI (which I highly recommend you do) See the manual install section.
 
