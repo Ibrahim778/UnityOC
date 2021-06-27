@@ -45,6 +45,9 @@ Since oclockvita is a vitaSDK plugin Unity will not build if you include it in y
 3. Run UnityTools like normal
 4. Install normally
 
+# Note
+You may be wondering "Where's the source code?" I'll upload it soon
+
 # Credits
 @iDevOnAParkingLot for giving me the idea
 @frangarcj for oclockvita
