@@ -13,7 +13,7 @@ If you don't want to install VitaFTPI (which I highly recommend you do) See the 
 2. Make a folder called "Plugins" (without "") inside your Assets folder. 
 3. Copy UnityOC.suprx and UnityOC_stub.a to the Plugins folder (make sure only PSP2 platform is selected!). 
 4. Make a folder called CustomPlugins (without "") inside your Assets folder. 
-5. Download a release of my version of oclockvita.suprx from (here)[https://github.com/Ibrahim778/oclockvita/releases]
+5. Download a release of my version of oclockvita.suprx from [here](https://github.com/Ibrahim778/oclockvita/releases)
 6. Copy that to the CustomPlugins folder (In settings make sure **no** platform is selected!)
 7. Copy the provided script UnityOC.cs to your project. (make sure to add it to a GameObject!)
 8. Done!!
