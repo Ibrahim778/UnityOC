@@ -33,7 +33,7 @@ This will Overclock your vita to 444/222/222/166 (which is the highest you can d
 To reset, you can call UnityOC.ResetFrequencies in the same way.
 
 # Limitations
-Right now this is all done from usermode, so you cannot:
+Right now this is all done from usermode, so you cannot:  
 Overclock > 444/222/222/166  
 Underclock < 333/111/111/111
 
