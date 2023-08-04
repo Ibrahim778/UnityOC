@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libUnityOC", "libUnityOC\libUnityOC.vcxproj", "{5B1A7DF9-C6F6-46B6-A286-1AD243440453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PSVita = Debug|PSVita
+		Release|PSVita = Release|PSVita
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1A7DF9-C6F6-46B6-A286-1AD243440453}.Debug|PSVita.ActiveCfg = Debug|PSVita
+		{5B1A7DF9-C6F6-46B6-A286-1AD243440453}.Debug|PSVita.Build.0 = Debug|PSVita
+		{5B1A7DF9-C6F6-46B6-A286-1AD243440453}.Release|PSVita.ActiveCfg = Release|PSVita
+		{5B1A7DF9-C6F6-46B6-A286-1AD243440453}.Release|PSVita.Build.0 = Release|PSVita
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FD0FB5-C33E-472D-9437-654EEBCB3610}
+	EndGlobalSection
+EndGlobal
