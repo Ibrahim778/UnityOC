@@ -17,5 +17,5 @@ And you can reset the clock speeds like so:
 
 ## Limitations
 Since this all done via usermode you cannot:  
-Overclock > 444/222/222/166
+Overclock > 444/222/222/166  
 Underclock < 333/111/111/111
