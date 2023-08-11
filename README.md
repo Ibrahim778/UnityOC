@@ -4,7 +4,7 @@ Overclock your vita right from Unity!
 ## Usage
 ### Quick Install
 Simply download and use the provided `.unitypackage` file in the realese.  
-You can add the `VitaClockSetterScript` to any game object (it should be just 1) and set your preferred clocks via the editor, which will be applied at runtime.
+You can add the `VitaClockSetter` script to any game object (it should be just 1) and set your preferred clocks via the editor, which will be applied at runtime.
 
 ### Manual Install
 1. Create a folder called `Plugins` (case sensitive!) in your Assets folder
